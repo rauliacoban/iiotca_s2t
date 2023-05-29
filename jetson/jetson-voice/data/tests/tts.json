@@ -1,0 +1,38 @@
+[
+   {
+      "text": "Hello, how are you today?",
+      "outputs": {
+         "fastpitch_hifigan": [
+            1.7066666666666668,
+            0.07356409728527069
+         ]
+      }
+   },
+   {
+      "text": "1 2 3 4 5",
+      "outputs": {
+         "fastpitch_hifigan": [
+            1.7531065759637188,
+            0.05420197546482086
+         ]
+      }
+   },
+   {
+      "text": "Is there anything that I can help you with today?",
+      "outputs": {
+         "fastpitch_hifigan": [
+            2.7631746031746034,
+            0.0679032951593399
+         ]
+      }
+   },
+   {
+      "text": "Tomorrow the weather is forecast to be sunny, with a high of 73 degrees.",
+      "outputs": {
+         "fastpitch_hifigan": [
+            5.178049886621316,
+            0.05618128925561905
+         ]
+      }
+   }
+]
